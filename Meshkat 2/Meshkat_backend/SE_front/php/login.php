@@ -43,7 +43,7 @@
       <img src="img/Screenshot.png" alt="" width="200px">
     </div>
     <div class="title-desktop">
-      ادخل من الجوال ياجميل
+      ادخل من الجوال 
     </div>
   </section>
   <section class="login">
